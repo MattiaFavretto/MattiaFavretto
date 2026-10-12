@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mattia and this is my Github page 👋
 
-<!--
-**MattiaFavretto/MattiaFavretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer specializing in **Full-Stack Development** and **AI-driven solutions**. I focus on turning complex challenges into clean, efficient, and maintainable software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education & Background
+- 🏛️ **B.Sc. in Computer Engineering** – University of Padua *(Graduated)*
+- 🎓 **M.Sc. in Computer Engineering** – University of Padua *(Ongoing)*
+- 🇦🇹 **Exchange Student** – TU Wien *(Current)*
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C++, Java, SQL, TypeScript/JavaScript
+- **Frontend:** React, Next.js, Angular
+- **Backend & APIs:** Node.js, Express
+- **Databases & Tools:** PostgreSQL, Docker, Git
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mattia-favretto-87b46630b/)
+- ✉️ [mattia.favretto04@gmail.com](mailto:mattia.favretto04@gmail.com)
